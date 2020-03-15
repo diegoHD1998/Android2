@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primera aplicacion</string>
+    <string name="app_name2">Hola Mundo a mi</string>
+    <string name="nombre">Diego Munoz Caro</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="boton">Ingresar</string>
+</resources>
